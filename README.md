@@ -9,6 +9,10 @@ This project is for educational and showcase purposes only. It will not be relea
 ## 🛠 What is Tellify?  
 A fully requests-based, lightweight tool to bulk-modify Tellonym profiles—change avatars, names, and bios in seconds.
 
+### Authors:
+- @Katb33
+- @eXiT0Dev
+
 ![Alt text](/ui.png)
 
 ---
